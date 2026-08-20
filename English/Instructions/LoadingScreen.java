@@ -1,0 +1,55 @@
+package English.Instructions;
+public class LoadingScreen {
+    public static void main()throws InterruptedException {
+        System.out.println("\n\n\n\n\n\n\n\n\n\n");
+        System.out.println("               ***              *****          *****      ********      ***  ****     ***      *****                             ");
+        System.out.println("               ***           ****   ****      *** ***     **********    ***  *****    ***   ****   ****                          ");
+        System.out.println("               ***          ***       ***    ***   ***    ***    ****   ***  ******   ***  ***       ***                         ");
+        System.out.println("               ***          ***       ***   ***     ***   ***      ***  ***  *** ***  ***  ***                                   ");
+        System.out.println("               ***          ***       ***  *************  ***      ***  ***  ***  *** ***  ***   *******                         ");
+        System.out.println("               ***          ***       ***  *************  ***     ***   ***  ***   ******  ***       ***                         ");
+        System.out.println("               ***********   ****   ****   ***       ***  **********    ***  ***    *****   ****   ****                          ");
+        System.out.println("               ***********      *****      ***       ***  ********      ***  ***     ****      *****      ** ** **               ");
+        System.out.print("\n\n");
+        Thread.sleep(1500);
+        System.out.print("           //////////////");
+        Thread.sleep(1500);
+        System.out.print("//////////");
+        Thread.sleep(2000);
+        System.out.print("////////");
+        Thread.sleep(500);
+        System.out.print("////////");
+        Thread.sleep(3000);
+        System.out.print("////////////");
+        Thread.sleep(1000);
+        System.out.print("///////");
+        Thread.sleep(500);
+        System.out.print("/////");
+        Thread.sleep(500);
+        System.out.print("///");
+        Thread.sleep(500);
+        System.out.print("/");
+        Thread.sleep(500);
+        System.out.print("/");
+        Thread.sleep(500);
+        System.out.print("/");
+        Thread.sleep(5000);
+        System.out.print("/////////////");
+        Thread.sleep(1000);
+        System.out.print("//////////////");
+        Thread.sleep(500);
+        System.out.print("///////");
+        Thread.sleep(500);
+        System.out.print("///");
+        Thread.sleep(1000);
+        System.out.print("\n                                                     Almost done. Please wait");
+        Thread.sleep(1000);
+        System.out.print(".");
+        Thread.sleep(1000);
+        System.out.print(".");
+        Thread.sleep(1000);
+        System.out.print(".");
+        Thread.sleep(1000);
+        System.out.print('\u000C');
+    }
+}

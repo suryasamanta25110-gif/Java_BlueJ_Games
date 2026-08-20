@@ -1,0 +1,58 @@
+package Bengali.Instructions;
+public class LoadingScreen {
+    public static void main()throws InterruptedException {
+        System.out.println("\n\n\n\n\n\n\n\n");
+        System.out.println("                                                        ***********                                                              ");
+        System.out.println("                                                      ***          **                                                            ");
+        System.out.println("                                                      ***                                                                        ");
+        System.out.println("                     **********************************************************    ***                                           ");
+        System.out.println("                        *****                 ***  ***  ***         ***          **   **                                         ");
+        System.out.println("                       ***                    ***  ***  ***         ***            ***                                           ");
+        System.out.println("                      ***          ***** ********  ***  ***  **     ***  ****                                                    ");
+        System.out.println("                      ***        ***   ****  ****  ***  ***  ***     **** ***    *****                                           ");
+        System.out.println("                      ***        ***    **    ***  ***  ***   ***         ***        ****                                        ");
+        System.out.println("                       ***    *  ***  *       ***  ***  ***    *****    ****            ***                                      ");
+        System.out.println("                         *****     ***        ***  ***  ***       *******                 **     **   **   **                    ");
+        System.out.print("\n\n");
+        Thread.sleep(1500);
+        System.out.print("           //////////////");
+        Thread.sleep(1500);
+        System.out.print("//////////");
+        Thread.sleep(2000);
+        System.out.print("////////");
+        Thread.sleep(500);
+        System.out.print("////////");
+        Thread.sleep(3000);
+        System.out.print("////////////");
+        Thread.sleep(1000);
+        System.out.print("///////");
+        Thread.sleep(500);
+        System.out.print("/////");
+        Thread.sleep(500);
+        System.out.print("///");
+        Thread.sleep(500);
+        System.out.print("/");
+        Thread.sleep(500);
+        System.out.print("/");
+        Thread.sleep(500);
+        System.out.print("/");
+        Thread.sleep(5000);
+        System.out.print("/////////////");
+        Thread.sleep(1000);
+        System.out.print("//////////////");
+        Thread.sleep(500);
+        System.out.print("///////");
+        Thread.sleep(500);
+        System.out.print("///");
+        Thread.sleep(1000);
+        System.out.print("\n                                                                                                          "+ (char)(2474) + (char)(2509) + (char)(2480) + (char)(2494) + (char)(2527) +" "+ (char)(2486) + (char)(2503) + (char)(2487) +" "+ (char)(2551) +" "+ (char)(2437) + (char)(2472) + (char)(2497) + (char)(2455) + (char)(2509) + (char)(2480) + (char)(2489) +" "+ (char)(2453) + (char)(2480) + (char)(2503) +" "+ (char)(2437) + (char)(2474) + (char)(2503) + (char)(2453) + (char)(2509) + (char)(2487) + (char)(2494) +" "+ (char)(2453) + (char)(2480) + (char)(2497) + (char)(2472));
+        Thread.sleep(1000);
+        System.out.print(".");
+        Thread.sleep(1000);
+        System.out.print(".");
+        Thread.sleep(1000);
+        System.out.print(".");
+        Thread.sleep(1000);
+        System.out.print('\u000C');
+    }
+}
