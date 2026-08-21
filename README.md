@@ -16,3 +16,31 @@ The 2 player games by JindoBlu was one of the applications from where I get a lo
 9. Buckshot Roulette (Only 4-players version was completed)
 
 ## Layout of this repository
+Bengali
+- Instructions (Folder)
+- Snake And Ladder Boards (Folder)
+- Bengali Home Screen
+- Snake And Ladder
+- Yazy (Not completed)
+
+English
+- Buckshot Roulette (Folder)
+  - Bullet Generation
+  - Display
+  - Four Player
+  - Home Screen
+  - Instructions
+  - Test (Only for testing)
+- Instructions (Folder)
+- Snake And Ladder Boards (Folder)
+- English Home Screen
+- Four Door Challenge
+- Mancala
+- Snake And Ladder
+- Stone Paper Scissors
+- Sudoku
+- Yazy
+
+## Author
+**Surya Samanta**
+Hope you like my games. Thanks for visiting this repository.
